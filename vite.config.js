@@ -12,7 +12,7 @@ export default defineConfig({
 					[
 						'@babel/plugin-proposal-decorators',
 						{
-							version: '2023-11', // Or '2023-05'
+							version: '2023-11',
 						},
 					],
 					'@babel/plugin-transform-class-properties',
